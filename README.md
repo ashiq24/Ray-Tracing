@@ -1,2 +1,2 @@
 # Ray-Tracing-
-Go to specification.pdf for detailed instructions.
+Go to specifications.pdf for detailed instructions.
