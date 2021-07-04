@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1549073886 source:g:\l-4 t-2\graphics sessonal\offline 4\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<fstream>
+	<windows.h>
+	<glut.h>
+	<iostream>
+	<fstream>
+	<cassert>
+	<iomanip>
+	<cmath>
+	<stack>
+	<queue>
+	<glut.h>
+	<math.h>
+	"bitmap_image.hpp"
+
+1392007564 g:\l-4 t-2\graphics sessonal\offline 4\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1545710763 g:\l-4 t-2\graphics sessonal\offline 4\opengl_codeblocks\bitmap_image.hpp
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<iterator>
+	<limits>
+	<string>
+
